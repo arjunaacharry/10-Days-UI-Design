@@ -4,6 +4,6 @@
 
 ## 15 Days UI Designing Challenge
 #### Day-1
-- **Sign Up Page**
-- **Todays UI** [01](https://user-images.githubusercontent.com/115148574/229290776-a0987bbc-9d2a-40c1-814f-4893421740e8.jpg)
+- **Task : Sign Up Page**
+- **Todays UI Design** [01](https://user-images.githubusercontent.com/115148574/229290776-a0987bbc-9d2a-40c1-814f-4893421740e8.jpg)
 
