@@ -6,7 +6,7 @@
 
 #### Day-02
 - **Task : Checkout Page**
-- **Today's UI Design** [02](https://user-images.githubusercontent.com/115148574/229348653-b165f16f-92ff-4651-84dd-c4928ec16518.jpg)
+- **Today's UI Design** [02](https://user-images.githubusercontent.com/115148574/229544952-392289aa-c069-4e8d-91a2-94c8ecfe9b01.jpg)
 
 #### Day-01
 - **Task : Sign Up Page**
