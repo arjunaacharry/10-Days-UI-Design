@@ -4,6 +4,10 @@
 
 ## 15 Days UI Designing Challenge
 
+#### Day-04
+- **Task : Home Page**
+- **Today's UI Design** [04](https://user-images.githubusercontent.com/115148574/229831888-6910b05b-6417-498b-bbb9-6ca06ebe294a.jpg)
+
 #### Day-03
 - **Task : Landing Page**
 - **Today's UI Design** [03](https://user-images.githubusercontent.com/115148574/229697055-64d14508-0234-4b0e-a140-289930bd38be.jpg)
