@@ -4,6 +4,10 @@
 
 ## 15 Days UI Designing Challenge
 
+#### Day-06
+- **Task : User Profile**
+- **Today's UI Design** [06](https://user-images.githubusercontent.com/115148574/230576918-cb44591b-2adc-44bd-b841-8bc744c786ba.jpg)
+
 #### Day-05
 - **Task : App Icon**
 - **Today's UI Design** [05](https://user-images.githubusercontent.com/115148574/230421996-9797ab77-95c2-4da5-87f0-e8b171bc9263.jpg)
