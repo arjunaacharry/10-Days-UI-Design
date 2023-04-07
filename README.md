@@ -2,6 +2,8 @@
 - **Connect me through** [LinkedIn](https://www.linkedin.com/in/arjun-a-acharry-044a36252/)
 - **Posting new creativities in** [Behance](https://www.behance.net/arjunaacharry)
 
+#### Creating new designs gives new knowledges and every new creations are my new experiences and that experience is the way to be Perfect!
+
 ## 15 Days UI Designing Challenge
 
 #### Day-06
