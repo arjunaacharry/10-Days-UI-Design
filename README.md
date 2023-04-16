@@ -6,6 +6,10 @@
 
 ## 15 Days UI Designing Challenge
 
+#### Day-08
+- **Task : 404 Page**
+- **Today's UI Design** [08](https://user-images.githubusercontent.com/115148574/232273446-a98844c3-62f4-425f-be88-65a39c1481a8.jpg)
+
 #### Day-07
 - **Task : Portfolio Home Page**
 - **Today's UI Design** [07](https://user-images.githubusercontent.com/115148574/231243588-6716ec96-60d3-4582-8421-c8c8c5ca5987.jpg)
