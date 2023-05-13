@@ -6,6 +6,10 @@
 
 ## 15 Days UI Designing Challenge
 
+#### Day-10
+- **Task : Pop up / Overlay**
+- **Today's UI Design [10](https://github.com/arjunaacharry/15-Days-UI-Design/assets/115148574/e54aa7ef-2ec9-4ea7-8e16-f84d227137ad)**
+
 #### Day-09
 - **Task : Pop Up**
 - **Today's UI Design [09](https://github.com/arjunaacharry/15-Days-UI-Design/assets/115148574/6a422f9f-8024-4e85-bc69-a6d62c700ecc)**
