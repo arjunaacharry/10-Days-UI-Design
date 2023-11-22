@@ -4,7 +4,7 @@
 
 #### Creating new designs gives new knowledges and every new creations are my new experiences and that experience is the way to be Perfect!
 
-## 10 Days UI Designing Challenge
+## 10 Days UI Design Challenge
 
 #### Day-10
 - **Task : Pop up / Overlay**
